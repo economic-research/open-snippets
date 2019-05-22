@@ -6,7 +6,7 @@ Recommended (uses the NYT Archive API):
 	the list of NYT articles of interest. It uses the collection of articles collected from the NYT Archive API by build_archive.py
 	so in that sense it includes all NYT articles of interest. 
 
-Deprecated (uses NYT Archive API):
+Deprecated (uses NYT Search API):
 
 -* nyt_article_search.py: for given parameters finds articles of interest from the NYT. It uses the NYT Search API,
 	INSTEAD OF the Archive API.
